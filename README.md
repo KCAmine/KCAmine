@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nuxt & VueJS**
 
-- 👨‍💻 All of my projects are available at [mejdiamine.fr](mejdiamine.fr)
+- 👨‍💻 All of my projects are available at [mejdiamine.fr](https://mejdiamine.fr)
 
 - ⚡ Fun fact **I think I learned something**
 
