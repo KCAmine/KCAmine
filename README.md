@@ -1,11 +1,11 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **[SrcAnalyser](https://github.com/KCAmine/src_analyser)**
+- 🔭 I’m currently working on **[SrcAnalyser](https://github.com/KCAmine/src_analyser)](https://github.com/KCAmine/HumidityPro.git)**
 
-- 🌱 I’m currently learning **Nuxt & VueJS**
+- 🌱 I’m currently learning **Flutter & C++**
 
 - 👨‍💻 All of my projects are available at [mejdiamine.fr](https://mejdiamine.fr)
 
-- ⚡ Fun fact **I think I learned something**
+- ⚡ Check out my last wesite [guide-npf.com](https://guide-npf.com/)
 
 [![](https://visitcount.itsvg.in/api?id=KCAmine&icon=0&color=0)](https://visitcount.itsvg.in)
 
