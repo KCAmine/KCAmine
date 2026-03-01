@@ -1,7 +1,13 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **[SrcAnalyser](https://github.com/KCAmine/src_analyser)](https://github.com/KCAmine/HumidityPro.git)**
+- # Humidity
 
-- 🌱 I’m currently learning **Flutter & C++**
+I’m currently working on **Humidity**, a private AI-powered application designed to assist technicians in generating fast, accurate, and reliable diagnostics.  
+
+Built with **Flutter** and **SQLite**, it focuses on efficiency and precision, helping users streamline their workflow.  
+
+Since the repository is private, the source code is not publicly accessible, but updates and features will be shared here regularly.
+
+- 🌱 I’m currently learning **Flutter & Dart**
 
 - 👨‍💻 All of my projects are available at [mejdiamine.fr](https://mejdiamine.fr)
 
