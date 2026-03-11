@@ -27,5 +27,4 @@ Built with **Flutter**, **Dart** and  **SQLite**, it focuses on efficiency and p
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KCAmine&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### 🔝 Top Languages
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=KCAmine&layout=compact&theme=dark&hide_border=true)
+
