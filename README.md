@@ -26,8 +26,6 @@ Built with **Flutter**, **Dart** and  **SQLite**, it focuses on efficiency and p
 ![](https://nirzak-streak-stats.vercel.app/?user=KCAmine&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KCAmine&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![Stats KCAmine](https://github-readme-stats.vercel.app/api?username=KCAmine&show_icons=true&theme=dark&hide_border=true)
 
 ### 🔝 Top Languages
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=KCAmine&layout=compact&theme=dark&hide_border=true)
